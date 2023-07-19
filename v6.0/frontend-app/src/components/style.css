@@ -1,0 +1,7 @@
+.style-button{
+    color: rgb(49, 160, 160);
+    background-color: rgb(12, 61, 61);
+    cursor: pointer;
+    padding: 10px;
+    font-size: 16px;
+}
